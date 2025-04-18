@@ -1,6 +1,6 @@
- <h1 align="left">Hello 👋, I'm Bhavana Mangaji</h1>
+ <h1 align="center">Hello 👋, I'm Bhavana Mangaji</h1>
 
- Aspiring AI/ML Engineer | Passionate about building intelligent systems | Python & SQL Enthusiast
+ **Aspiring AI/ML Engineer | Passionate about building intelligent systems | Python & SQL Enthusiast**
 
 🎓 Bachelors in Artificial Intelligence & Machine learning | Avanthi Institute of Engineering & Technology, Hyderabad
 
@@ -14,7 +14,7 @@
 
 🔗 <a href="https://github.com/bhavana0222">GitHub</a>
 
-📄 <a href="https://drive.google.com/file/d/1IORKLP9nCzfFNj4B7LAEMvfqLuApy2JG/view?usp=sharing">Check out my Resume</a>
+📄 <a href="https://drive.google.com/file/d/1o3P-JblYCj5zHSF5VUUlqiZ50zQe-NwQ/view?usp=sharing">Check out my Resume</a>
 
 ## 🛠️ Skills & Technologies
 
