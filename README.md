@@ -1,4 +1,4 @@
-  Hello 👋, I'm Bhavana Mangaji
+ <h1 align="left">Hello 👋, I'm Bhavana Mangaji</h1>
 
  Aspiring AI/ML Engineer | Passionate about building intelligent systems | Python & SQL Enthusiast
 
@@ -10,7 +10,9 @@
 
 📫 Reach me at <a href="mailto:bhvanamangaji93@gmail.com" class="email-link">bhvanamangaji93@gmail.com</a>
 
-🔗 <a href="https://www.linkedin.com/in/bhavana-mangaji-02aab426b">LinkedIn</a> <a href="https://github.com/bhavana0222">GitHub</a>
+🔗 <a href="https://www.linkedin.com/in/bhavana-mangaji-02aab426b">LinkedIn</a> 
+
+🔗 <a href="https://github.com/bhavana0222">GitHub</a>
 
 📄 <a href="https://drive.google.com/file/d/1IORKLP9nCzfFNj4B7LAEMvfqLuApy2JG/view?usp=sharing">Check out my Resume</a>
 
