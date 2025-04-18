@@ -1,72 +1,71 @@
-# Hello 👋, I'm Bhavana Mangaji
+#   Hello 👋, I'm Bhavana Mangaji
 
-Aspiring AI/ML Engineer | Passionate about building intelligent systems | Python & SQL Enthusiast
+    Aspiring AI/ML Engineer | Passionate about building intelligent systems | Python & SQL Enthusiast
 
-🎓 Bachelors in Artificial Intelligence & Machine learning | Avanthi Institute of Engineering & Technology, Hyderabad
+    🎓 Bachelors in Artificial Intelligence & Machine learning | Avanthi Institute of Engineering & Technology, Hyderabad
 
-📌 Driven to apply AI/ML skills to real-world healthcare and automation challenges
+    📌 Driven to apply AI/ML skills to real-world healthcare and automation challenges
 
-💡 Currently exploring Machine Learning, Deep Learning, and AI applications. Developed Radar Detection System and Healthcare Resource Management System
+    💡 Currently exploring Machine Learning, Deep Learning, and AI applications. Developed Radar Detection System and Healthcare Resource Management System
 
-📫 Reach me at <a href="mailto:bhvanamangaji93@gmail.com" class="email-link">bhvanamangaji93@gmail.com</a>
+    📫 Reach me at   bhvanamangaji93@gmail.com
 
-🔗 <a href="https://www.linkedin.com/in/bhavana-mangaji-02aab426b">LinkedIn</a> <a href="https://github.com/bhavana0222">GitHub</a>
+    🔗   LinkedIn GitHub
 
-📄 Check out my <a href="https://drive.google.com/file/d/1IORKLP9nCzfFNj4B7LAEMvfqLuApy2JG/view?usp=sharing">resume</a>
+    📄 Check out my resume
 
-## 🛠️ Skills & Technologies
+    ##   🛠️ Skills & Technologies
 
-**Languages:** C, Python, Java
+    **Languages:** C, Python, Java
 
-**Web:** HTML5, CSS3
+    **Web:** HTML5, CSS3
 
-**Database:** SQL, MySQL
+    **Database:** SQL, MySQL
 
-**Libraries:** Power BI
+    **Libraries:** Power BI
 
-**Tools:** Arduino
+    **Tools:** Arduino
 
-**Core Concepts:** OOP, Data Cleaning, ML Algorithms
+    **Core Concepts:** OOP, Data Cleaning, ML Algorithms
 
-**Soft Skills:** Team Leader, Communication, Time Management
+    **Soft Skills:** Team Leader, Communication, Time Management
 
-<div align="center">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" style="margin-right: 5px;" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" style="margin-right: 5px;" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" style="margin-right: 5px;" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" style="margin-right: 5px;" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" style="margin-right: 5px;" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" style="margin-right: 5px;" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg" alt="SQL" />
-</div>
+    <div align="left">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" style="height: 1.5em; margin-right: 5px;" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" style="height: 1.5em; margin-right: 5px;" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" style="height: 1.5em; margin-right: 5px;" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" style="height: 1.5em; margin-right: 5px;" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" style="height: 1.5em; margin-right: 5px;" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" style="height: 1.5em; margin-right: 5px;" />
+    </div>
 
-## 💼 Featured Projects
+    ##   💼 Featured Projects
 
-### 🔹 Radar Detection System
+    ###   🔹 Radar Detection System
 
-Arduino-Based Radar Detection System, developed a low-cost radar system using Arduino, integrating ultrasonic sensors and servo motors for real-time object detection. Designed a radar-like graphical interface with Processing software, enhancing applications in security, robotics, and automation. The system demonstrates affordability, ease of implementation, and scalability for advanced applications like IoT an...
+    Arduino-Based Radar Detection System, developed a low-cost radar system using Arduino, integrating ultrasonic sensors and servo motors for real-time object detection. Designed a radar-like graphical interface with Processing software, enhancing applications in security, robotics, and automation. The system demonstrates affordability, ease of implementation, and scalability for advanced applications like IoT an...
 
-### 🔹 Spotify Recommendation System (Internship)
+    ###   🔹 Spotify Recommendation System (Internship)
 
-Designed and implemented a machine learning-based Spotify recommendation system during a virtual AI internship at Corizo. Utilized Python and its libraries to analyse user data, build predictive models, and recommend personalized music selections. Demonstrated expertise in applying AI concepts to real-world challenges, focusing on data analysis, model development, and recommendation systems.
+    Designed and implemented a machine learning-based Spotify recommendation system during a virtual AI internship at Corizo. Utilized Python and its libraries to analyse user data, build predictive models, and recommend personalized music selections. Demonstrated expertise in applying AI concepts to real-world challenges, focusing on data analysis, model development, and recommendation systems.
 
-### 🔹 Cardiovascular Diseases Prediction System (Internship)
+    ###   🔹 Cardiovascular Diseases Prediction System (Internship)
 
-Developed a machine learning-based system for cardiovascular diseases prediction during a virtual AI internship at Corizo. Applied data preprocessing, feature selection, and predictive algorithms to analyse patient health metrics and assess risk factors. Demonstrated the ability to implement Al concepts in solving real-world healthcare challenges, enhancing accuracy and efficiency in medical diagnosis.
+    Developed a machine learning-based system for cardiovascular diseases prediction during a virtual AI internship at Corizo. Applied data preprocessing, feature selection, and predictive algorithms to analyse patient health metrics and assess risk factors. Demonstrated the ability to implement Al concepts in solving real-world healthcare challenges, enhancing accuracy and efficiency in medical diagnosis.
 
-### 🔹 Monitoring Healthcare Resources in Government Hospitals
+    ###   🔹 Monitoring Healthcare Resources in Government Hospitals
 
-Designed and implemented a system to digitize patient records, optimize resource allocation, and improve hospital resource management. Utilized Java, MySQL, and predictive algorithms to streamline scheduling, inventory tracking, and accessibility to healthcare services, enhancing efficiency and overall healthcare delivery.
+    Designed and implemented a system to digitize patient records, optimize resource allocation, and improve hospital resource management. Utilized Java, MySQL, and predictive algorithms to streamline scheduling, inventory tracking, and accessibility to healthcare services, enhancing efficiency and overall healthcare delivery.
 
-## 📜 Certifications & Training
+    ##   📜 Certifications & Training
 
-* Certified for participation in the Code Unnati Innovation Marathon 2024-25, showcasing project submission under the Edunet Foundation and SAP initiative
-* TCS-ION Career Edge-Young Professional Certification
-* TCS-ion Cybersecurity Analyst Job Simulation Certification
-* Certified by Infosys on Artificial Intelligence
-* Received Full Stack Development with MERN as part of the thingQbator program
-* JAVA Certificate by Great Learning Academy
-* Certified by Accenture on Developer and Technology Job Simulation
-* Certified by LinkedIn Learning on Generative AI
+    * Certified for participation in the Code Unnati Innovation Marathon 2024-25, showcasing project submission under the Edunet Foundation and SAP initiative
+    * TCS-ION Career Edge-Young Professional Certification
+    * TCS-ion Cybersecurity Analyst Job Simulation Certification
+    * Certified by Infosys on Artificial Intelligence
+    * Received Full Stack Development with MERN as part of the thingQbator program
+    * JAVA Certificate by Great Learning Academy
+    * Certified by Accenture on Developer and Technology Job Simulation
+    * Certified by LinkedIn Learning on Generative AI
 
-## 📈 GitHub Stats
+    ##   📈 GitHub Stats
